@@ -73,11 +73,11 @@ button:hover {
     transition: color 0.3s;
 }
 
-.delete:hover {
+.delete{
     color: red;
 }
 
-.edit:hover {
+.edit{
     color: green;
 }
 
