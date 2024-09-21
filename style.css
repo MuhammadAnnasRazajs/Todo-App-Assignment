@@ -43,9 +43,9 @@ button {
     transition: background-color 0.3s;
 }
 
-button:hover {
+/* button:hover {
     background-color: #218838;
-}
+} */
 
 .task-list {
     border-top: 2px solid #ccc;
